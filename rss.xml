@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>https://thegrid.ai/allegory/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 15:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 15:25:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/allegory/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prince]]></title>
+            <description><![CDATA[<article><h1>Prince</h1><p>I never wanted to be your weekend lover, I only wanted to be some kind of friend.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e07ab68421591eb5cc3c73814418cc032a8cb9e1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/allegory/9e541c12-d318-4c7c-b6fd-acc7e1ef70cf/index.html</link>
+            <guid isPermaLink="false">9e541c12-d318-4c7c-b6fd-acc7e1ef70cf</guid>
+            <pubDate>Sat, 07 May 2016 15:25:19 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/538f5831-8052-49e1-97ac-105fd0bdcd69.jpg">]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/allegory/473ba38a-af3c-492e-8741-a866c9c67880/index.html</link>
             <guid isPermaLink="false">473ba38a-af3c-492e-8741-a866c9c67880</guid>
             <pubDate>Sat, 07 May 2016 15:12:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/022964d3-1fb2-4769-a89e-df2932fdb5ad.jpg">]]></description>
-            <link>https://thegrid.ai/allegory/9e541c12-d318-4c7c-b6fd-acc7e1ef70cf/index.html</link>
-            <guid isPermaLink="false">9e541c12-d318-4c7c-b6fd-acc7e1ef70cf</guid>
-            <pubDate>Sat, 07 May 2016 15:05:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
