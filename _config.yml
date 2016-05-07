@@ -1,0 +1,28 @@
+name: Allegory
+favicon: null
+layout_spectrum: 0.014503757003694773
+typography_spectrum: 0.36137866973876953
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5754257938824594
+  lightness: 0.9976434053387493
+  saturation: 0.5153291155584157
+  rhythmicContrast: 0.49089624313637614
+purpose: []
