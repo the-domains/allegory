@@ -1,7 +1,7 @@
 name: Allegory
 favicon: null
-layout_spectrum: 0.014503757003694773
-typography_spectrum: 0.36137866973876953
+layout_spectrum: 0.62258
+typography_spectrum: 0.27709
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.5754257938824594
-  lightness: 0.9976434053387493
-  saturation: 0.5153291155584157
-  rhythmicContrast: 0.49089624313637614
+    - '#000000'
+    - '#b2b2b2'
+    - '#2a2a2a'
+    - '#8e8e8e'
+    - '#5c5c5c'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
