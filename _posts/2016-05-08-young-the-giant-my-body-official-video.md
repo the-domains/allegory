@@ -16,8 +16,8 @@ keywords:
   - official
   - rides
 description: ''
-datePublished: '2016-05-08T18:16:56.048Z'
-dateModified: '2016-05-08T18:15:58.783Z'
+datePublished: '2016-05-08T18:18:10.166Z'
+dateModified: '2016-05-08T18:17:46.750Z'
 author:
   - name: Young the Giant
     url: 'https://www.youtube.com/user/YoungtheGiant'
@@ -61,6 +61,7 @@ app_links:
     namespace: google
     type: ios
 title: 'Young the Giant: My Body [OFFICIAL VIDEO]'
+sourcePath: _posts/2016-05-08-young-the-giant-my-body-official-video.md
 authors: []
 publisher:
   name: YouTube
@@ -68,7 +69,6 @@ publisher:
   url: 'https://www.youtube.com/'
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 starred: false
-sourcePath: _posts/2016-05-08-young-the-giant-my-body-official-video.md
 _type: VideoObject
 _context: 'http://schema.org'
 
