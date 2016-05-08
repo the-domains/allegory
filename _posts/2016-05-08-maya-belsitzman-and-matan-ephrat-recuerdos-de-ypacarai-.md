@@ -1,26 +1,28 @@
 ---
-author:
-  - name: 'מאיה בלזיצמן ומתן אפרת Maya Belsitzman & Matan Ephrat'
-    url: 'https://www.youtube.com/user/MayaMatanMusic'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: 'Click here for Concerts & Shows (לוח הופעות) or Official Facebook: http://confia.co.il/Maya&Matan Following the creative encounter with the amazing Ainda Duo, who introduced the next song to us -- music: Demetrio Ortiz lyrics: Zulema de Mirkin Una noche tibia nos conocimos junto al lago azul de Ypacaraí.'
-app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=avtbSgijPaA'
-title: 'Maya Belsitzman & Matan Ephrat - Recuerdos De Ypacarai - מאיה בלזיצמן ומתן אפרת'
-datePublished: '2016-05-08T16:28:26.322Z'
-dateModified: '2016-05-08T16:12:52.222Z'
-starred: false
-sourcePath: _posts/2016-05-08-maya-belsitzman-and-matan-ephrat-recuerdos-de-ypacarai-.md
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=avtbSgijPaA'
+inLanguage: null
+keywords: []
+description: ''
+datePublished: '2016-05-08T16:56:40.179Z'
+dateModified: '2016-05-08T16:56:36.956Z'
+author:
+  - name: 'Maya Belsitzman & Matan Ephrat'
+    url: 'https://www.youtube.com/user/MayaMatanMusic'
+    avatar: {}
+related: []
+app_links: []
+title: 'Maya Belsitzman & Matan Ephrat - Recuerdos De Ypacarai - מאיה בלזיצמן ומתן אפרת'
+sourcePath: _posts/2016-05-08-maya-belsitzman-and-matan-ephrat-recuerdos-de-ypacarai-.md
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+starred: false
 _type: VideoObject
 _context: 'http://schema.org'
 
