@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 20:24:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 20:24:06 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Weather - Novo Amor]]></title>
+            <description><![CDATA[<article><h1>Weather - Novo Amor</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec245a84f0901ea2c71d62cbb937569adda7167f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GbAF4dRw0Do&amp;list=PLwQfjk__gVZ1uEwMT_yRc0N5NGDwV-4_L&amp;index=56</link>
+            <guid isPermaLink="false">45e38e34-41ec-4ebf-8aff-d1ae09c4ce5c</guid>
+            <pubDate>Sun, 08 May 2016 20:23:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Leon Bridges: NPR Music Tiny Desk Concert]]></title>
             <description><![CDATA[<article><h1>Leon Bridges: NPR Music Tiny Desk Concert</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26fd4a0324d34660e0dad262fab47cfd10a982ad.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Dire Straits - Sultans Of Swing (Alchemy Live)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09f426b88c30830a01dbc7913b24f90c8dddb90.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=8Pa9x9fZBtY</link>
             <guid isPermaLink="false">bf55b820-e4d5-4b61-b716-b436ce94f65a</guid>
-            <pubDate>Sun, 08 May 2016 17:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Flynn - The Lady is Risen - CARDINAL SESSIONS]]></title>
-            <description><![CDATA[<article><h1>Johnny Flynn - The Lady is Risen - CARDINAL SESSIONS</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1bb220ec26ec522734aa0590e1361d1283183901.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=iHywjTem4IY</link>
-            <guid isPermaLink="false">86c8609b-35ac-49e9-9132-b1f4c86c3bf8</guid>
             <pubDate>Sun, 08 May 2016 17:01:55 GMT</pubDate>
         </item>
     </channel>
