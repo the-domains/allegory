@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Allegory]]></title>
         <description><![CDATA[Allegory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 16:28:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 08 May 2016 16:56:41 GMT</lastBuildDate>
+        <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Maya Belsitzman & Matan Ephrat - Recuerdos De Ypacarai - מאיה בלזיצמן ומתן אפרת]]></title>
-            <description><![CDATA[<article><h1>Maya Belsitzman & Matan Ephrat - Recuerdos De Ypacarai - מאיה בלזיצמן ומתן אפרת</h1><p>Click here for Concerts & Shows (לוח הופעות) or Official Facebook: http://confia.co.il/Maya&Matan Following the creative encounter with the amazing Ainda Duo, who introduced the next song to us -- music: Demetrio Ortiz lyrics: Zulema de Mirkin Una noche tibia nos conocimos junto al lago azul de Ypacaraí.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c129fca3aa5047c8d2d7f820365e22ae25a76a58.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Maya Belsitzman & Matan Ephrat - Recuerdos De Ypacarai - מאיה בלזיצמן ומתן אפרת</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c129fca3aa5047c8d2d7f820365e22ae25a76a58.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=avtbSgijPaA</link>
             <guid isPermaLink="false">377aaa35-320a-436e-80db-30db609c10b1</guid>
-            <pubDate>Sun, 08 May 2016 16:28:26 GMT</pubDate>
+            <pubDate>Sun, 08 May 2016 16:56:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
