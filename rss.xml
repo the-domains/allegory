@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 20:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 10:15:12 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Michael Jackson]]></title>
+            <description><![CDATA[<article><h1>Michael Jackson</h1><p>No message could be any clearer. If you want to make the world a better place take a look at yourself</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a88d0a8fdcea1d6c81c868c52f383f9ba0cd8bc.jpg"></article>]]></description>
+            <link>http://allegory.blue/michael-jackson/index.html</link>
+            <guid isPermaLink="false">473ba38a-af3c-492e-8741-a866c9c67880</guid>
+            <pubDate>Thu, 12 May 2016 10:14:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Young the Giant: My Body [OFFICIAL VIDEO]]]></title>
             <description><![CDATA[<article><h1>Young the Giant: My Body [OFFICIAL VIDEO]</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14897cc74a72f5e86a69c5c17e5065c56bc16fc5.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=TCAeDIF2svc</link>
             <guid isPermaLink="false">a6b367e2-85b8-4ec0-8279-69f66209c03f</guid>
             <pubDate>Sun, 08 May 2016 17:10:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dire Straits - Sultans Of Swing (Alchemy Live)]]></title>
-            <description><![CDATA[<article><h1>Dire Straits - Sultans Of Swing (Alchemy Live)</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a09f426b88c30830a01dbc7913b24f90c8dddb90.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=8Pa9x9fZBtY</link>
-            <guid isPermaLink="false">bf55b820-e4d5-4b61-b716-b436ce94f65a</guid>
-            <pubDate>Sun, 08 May 2016 17:01:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
