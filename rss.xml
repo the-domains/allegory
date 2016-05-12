@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 10:15:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2016 10:15:13 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prince]]></title>
+            <description><![CDATA[<article><h1>Prince</h1><p>I never wanted to be your weekend lover, I only wanted to be some kind of friend. Baby I could never steal you from another</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e07ab68421591eb5cc3c73814418cc032a8cb9e1.jpg"></article>]]></description>
+            <link>http://allegory.blue/prince/index.html</link>
+            <guid isPermaLink="false">9e541c12-d318-4c7c-b6fd-acc7e1ef70cf</guid>
+            <pubDate>Thu, 12 May 2016 10:14:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Michael Jackson]]></title>
             <description><![CDATA[<article><h1>Michael Jackson</h1><p>No message could be any clearer. If you want to make the world a better place take a look at yourself</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a88d0a8fdcea1d6c81c868c52f383f9ba0cd8bc.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=oorK4RPgZ8Q</link>
             <guid isPermaLink="false">ef84297b-2390-4e00-9c97-557bc6b5fb92</guid>
             <pubDate>Sun, 08 May 2016 17:34:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carlos Santana - EUROPA (en vivo)]]></title>
-            <description><![CDATA[<article><h1>Carlos Santana - EUROPA (en vivo)</h1><p>SANTANA LIVE AT MONTREUX 2011</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/07c204493ded86410de1793b798b37e72fef986b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=TCAeDIF2svc</link>
-            <guid isPermaLink="false">a6b367e2-85b8-4ec0-8279-69f66209c03f</guid>
-            <pubDate>Sun, 08 May 2016 17:10:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
