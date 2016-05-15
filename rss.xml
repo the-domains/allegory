@@ -4,21 +4,28 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 10:33:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 May 2016 08:30:19 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Kurt Cobain]]></title>
-            <description><![CDATA[<article><h1>Kurt Cobain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b624daa9e1a941477c1a8d602f2a7a24badcbe2e.jpg"></article>]]></description>
-            <link>http://allegory.blue/kurt-cobain/index.html</link>
-            <guid isPermaLink="false">4e809820-5f51-4e71-bd2b-0c9a07f2e03d</guid>
-            <pubDate>Thu, 12 May 2016 10:24:37 GMT</pubDate>
+            <title><![CDATA[WELCOME HOME]]></title>
+            <description><![CDATA[<article><h1>WELCOME HOME</h1><p>Take a look at what radios are missing today and don't forget what was on them yesterday.</p></article>]]></description>
+            <link>http://allegory.blue/welcome-home/index.html</link>
+            <guid isPermaLink="false">64ae0dbf-432b-417b-91dc-6b67ac7bf03b</guid>
+            <pubDate>Sun, 15 May 2016 08:29:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prince]]></title>
             <description><![CDATA[<article><h1>Prince</h1><p>I never wanted to be your weekend lover, I only wanted to be some kind of friend. Baby I could never steal you from another</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e07ab68421591eb5cc3c73814418cc032a8cb9e1.jpg"></article>]]></description>
             <link>http://allegory.blue/prince/index.html</link>
             <guid isPermaLink="false">9e541c12-d318-4c7c-b6fd-acc7e1ef70cf</guid>
-            <pubDate>Thu, 12 May 2016 10:14:50 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 10:33:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kurt Cobain]]></title>
+            <description><![CDATA[<article><h1>Kurt Cobain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b624daa9e1a941477c1a8d602f2a7a24badcbe2e.jpg"></article>]]></description>
+            <link>http://allegory.blue/kurt-cobain/index.html</link>
+            <guid isPermaLink="false">4e809820-5f51-4e71-bd2b-0c9a07f2e03d</guid>
+            <pubDate>Thu, 12 May 2016 10:32:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Michael Jackson]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=XXmlJQN5Pm8&amp;list=PLwQfjk__gVZ1uEwMT_yRc0N5NGDwV-4_L&amp;index=13</link>
             <guid isPermaLink="false">dc768430-8c8e-46b1-8325-6034f4212e16</guid>
             <pubDate>Sun, 08 May 2016 18:16:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Elton John - Rocket Man]]></title>
-            <description><![CDATA[<article><h1>Elton John - Rocket Man</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0334735dbea4bc213e31cb17e6b2c162be2aef46.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=uNNl3C0qvKg</link>
-            <guid isPermaLink="false">93f54a32-c873-49b4-abea-ec9c75e62ac3</guid>
-            <pubDate>Sun, 08 May 2016 18:15:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
