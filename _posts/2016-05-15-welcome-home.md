@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: "Take a look at what radios are missing today and don't forget what was on them yesterday."
-datePublished: '2016-05-15T08:29:54.335Z'
-dateModified: '2016-05-15T08:24:39.851Z'
+description: ''
+datePublished: '2016-05-15T08:31:51.195Z'
+dateModified: '2016-05-15T08:31:45.552Z'
 title: WELCOME HOME
 author: []
 sourcePath: _posts/2016-05-15-welcome-home.md
@@ -22,9 +22,3 @@ _type: Article
 
 ---
 # WELCOME HOME
-
-Here I present that magical place in the Internet where you can hear both the past and the present without even having to pull a single lever.
-
-Take a look at what radios are missing today and don't forget what was on them yesterday.
-
-Have fun, or relax... or do whatever you came here for
