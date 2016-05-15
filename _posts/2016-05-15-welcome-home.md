@@ -1,15 +1,15 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: "Take a look at what radios are missing today and don't forget what was on them yesterday."
-datePublished: '2016-05-15T08:21:55.081Z'
-dateModified: '2016-05-15T08:21:45.342Z'
+datePublished: '2016-05-15T08:29:54.335Z'
+dateModified: '2016-05-15T08:24:39.851Z'
 title: WELCOME HOME
 author: []
+sourcePath: _posts/2016-05-15-welcome-home.md
 authors: []
 publisher:
   name: null
@@ -17,8 +17,8 @@ publisher:
   url: null
   favicon: null
 starred: true
-sourcePath: _posts/2016-05-15-welcome-home.md
-_type: Blurb
+url: welcome-home/index.html
+_type: Article
 
 ---
 # WELCOME HOME
