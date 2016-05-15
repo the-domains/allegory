@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-15T08:38:11.432Z'
-dateModified: '2016-05-15T08:38:01.994Z'
+datePublished: '2016-05-15T08:41:13.287Z'
+dateModified: '2016-05-15T08:40:53.828Z'
 title: WELCOME HOME
 author: []
 sourcePath: _posts/2016-05-15-welcome-home.md
