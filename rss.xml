@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:28:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 12:29:02 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[En estado de shock]]></title>
+            <description><![CDATA[<article><h1>En estado de shock</h1><p>Revelación. El alma existe.</p></article>]]></description>
+            <link>http://allegory.blue/en-estado-de-shock/index.html</link>
+            <guid isPermaLink="false">1d8d4029-9522-448c-abdc-989bdb438173</guid>
+            <pubDate>Wed, 20 Jul 2016 12:29:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Lo bueno es un tesoro]]></title>
             <description><![CDATA[<article><h1>Lo bueno es un tesoro</h1><p>¿Te has preguntado alguna vez si es éste el infierno tras una vida pasada mucho mejor?</p></article>]]></description>
