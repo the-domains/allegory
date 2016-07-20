@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:29:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 12:29:08 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Límites insospechados]]></title>
+            <description><![CDATA[<article><h1>Límites insospechados</h1><p>Si pones a una hormiga en un folio y marcas un lateral de verde y el opuesto de rojo, siendo el primero la salida y el segundo el final del recorrido que hará la hormiga por el folio, puedes entender lo siguiente: la hormiga ve en dos dimensiones, lo que significa que, si al llegar ésta al lado rojo doblamos el papel formando un cilindro, acabara exactamente donde empezó si darse cuenta. Estúpida hormiga.</p></article>]]></description>
+            <link>http://allegory.blue/limites-insospechados/index.html</link>
+            <guid isPermaLink="false">5a946416-1234-469f-8e98-be911bc61aa4</guid>
+            <pubDate>Wed, 20 Jul 2016 12:29:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[En estado de shock]]></title>
             <description><![CDATA[<article><h1>En estado de shock</h1><p>Revelación. El alma existe.</p></article>]]></description>
