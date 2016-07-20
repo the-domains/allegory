@@ -10,14 +10,15 @@ description: >-
   verá obligado a escoger la opción mejor, la más perfecta. Por lo tanto un ser
   perfecto no es libre. Gran primera contradicción que se debería tener en
   cuenta ya que es incondicionalmente imposible ser perfecto PERO no libre.
-datePublished: '2016-07-20T14:10:38.018Z'
-dateModified: '2016-07-20T14:07:41.898Z'
+datePublished: '2016-07-20T19:49:08.282Z'
+dateModified: '2016-07-20T19:47:43.947Z'
 title: Divina Perfección
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: _posts/2016-07-20-divina-perfeccion.md
+authors: []
+publisher: {}
+via: {}
+starred: false
 url: divina-perfeccion/index.html
 _type: Article
 
