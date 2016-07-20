@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Allegory]]></title>
         <description><![CDATA[Allegory]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 12:28:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 20 Jul 2016 12:28:50 GMT</lastBuildDate>
+        <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lo bueno es un tesoro]]></title>
+            <description><![CDATA[<article><h1>Lo bueno es un tesoro</h1><p>¿Te has preguntado alguna vez si es éste el infierno tras una vida pasada mucho mejor?</p></article>]]></description>
+            <link>http://allegory.blue/lo-bueno-es-un-tesoro/index.html</link>
+            <guid isPermaLink="false">3e3ddbb2-2c95-4667-844d-fb7f26244edb</guid>
+            <pubDate>Wed, 20 Jul 2016 12:28:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Etapas]]></title>
             <description><![CDATA[<article><h1>Etapas</h1><p>Hay ciertos hitos en la vida de una persona por los que se pasa casi sin darse cuenta.</p></article>]]></description>
-            <link>undefinedetapas/index.html</link>
+            <link>http://allegory.blue/etapas/index.html</link>
             <guid isPermaLink="false">7f620d8e-fb6d-47a7-82da-23eeb4d02bd8</guid>
             <pubDate>Wed, 20 Jul 2016 12:28:40 GMT</pubDate>
         </item>
