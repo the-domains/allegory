@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 13:44:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 13:44:33 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Una Fina Línea]]></title>
+            <description><![CDATA[<article><h1>Una Fina Línea</h1><p>Existe una fina línea que separa a las personas y sus acciones. Así unos acaban siendo fiestero y otros borrachos, unos tristes y otros amargados, unos amantes de la vida y otros unos idealistas.</p></article>]]></description>
+            <link>http://allegory.blue/una-fina-linea/index.html</link>
+            <guid isPermaLink="false">f1f3cf0d-2e65-4b9a-9577-7b4ee14d7177</guid>
+            <pubDate>Wed, 20 Jul 2016 13:44:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Una Especie Superior]]></title>
             <description><![CDATA[<article><h1>Una Especie Superior</h1><p>Darte el permiso de la superioridad me parece una de las cosas más absurdas y cobardes que hacemos los humanos, y esto ha llevado a los mayores genocidios de la historia, así que no estoy hablando de ninguna tontería.</p></article>]]></description>
