@@ -4,8 +4,22 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 13:44:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 13:44:34 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Red Antisocial]]></title>
+            <description><![CDATA[<article><h1>Red Antisocial</h1><p>¿Qué está pasando con la humanidad? ¿Cómo es posible que algo creado por y para el hombre se haya convertido en la principal razón de deshumanización?</p></article>]]></description>
+            <link>http://allegory.blue/red-antisocial/index.html</link>
+            <guid isPermaLink="false">198d99a7-e4db-4b92-980b-4ecdbe0253f4</guid>
+            <pubDate>Wed, 20 Jul 2016 13:44:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Realidad Realizable]]></title>
+            <description><![CDATA[<article><h1>Realidad Realizable</h1><p>Muere un famoso y de repente toda la actualidad se centra en ello; las guerras desaparecen, las personas se curan y la crisis la recuperamos en tiempo record. Pues con todo el respeto del mundo, los personajes importantes deberían morir más a menudo.</p></article>]]></description>
+            <link>http://allegory.blue/realidad-realizable/index.html</link>
+            <guid isPermaLink="false">be79044a-2ef2-4a24-b8ad-63cb60956cdc</guid>
+            <pubDate>Wed, 20 Jul 2016 13:44:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inspiración]]></title>
             <description><![CDATA[<article><h1>Inspiración</h1><p>Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona te preguntarás cuánto tiempo has perdido sin haberlo experimentado.</p></article>]]></description>
@@ -61,20 +75,6 @@
             <link>http://allegory.blue/en-estado-de-shock/index.html</link>
             <guid isPermaLink="false">1d8d4029-9522-448c-abdc-989bdb438173</guid>
             <pubDate>Wed, 20 Jul 2016 12:29:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Lo bueno es un tesoro]]></title>
-            <description><![CDATA[<article><h1>Lo bueno es un tesoro</h1><p>¿Te has preguntado alguna vez si es éste el infierno tras una vida pasada mucho mejor?</p></article>]]></description>
-            <link>http://allegory.blue/lo-bueno-es-un-tesoro/index.html</link>
-            <guid isPermaLink="false">3e3ddbb2-2c95-4667-844d-fb7f26244edb</guid>
-            <pubDate>Wed, 20 Jul 2016 12:28:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Etapas]]></title>
-            <description><![CDATA[<article><h1>Etapas</h1><p>Hay ciertos hitos en la vida de una persona por los que se pasa casi sin darse cuenta.</p></article>]]></description>
-            <link>http://allegory.blue/etapas/index.html</link>
-            <guid isPermaLink="false">7f620d8e-fb6d-47a7-82da-23eeb4d02bd8</guid>
-            <pubDate>Wed, 20 Jul 2016 12:28:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
