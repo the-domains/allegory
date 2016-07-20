@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 14:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 14:10:41 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Jerarquía de Opiniones]]></title>
+            <description><![CDATA[<article><h1>Jerarquía de Opiniones</h1><p>En la universidad tienen la extraña costumbre de preguntar a los alumnos por su opinión.</p></article>]]></description>
+            <link>http://allegory.blue/jerarquia-de-opiniones/index.html</link>
+            <guid isPermaLink="false">a41ff577-ca5d-4620-b615-804d31e3b429</guid>
+            <pubDate>Wed, 20 Jul 2016 14:10:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Corriente Alterna]]></title>
             <description><![CDATA[<article><h1>Corriente Alterna</h1><p>En ocasiones pienso que para muchos debe ser esencial tener un objetivo en la vida. Tal vez sea por la cantidad de veces que me he tenido que enfrentar a preguntas tales como ¿Dónde te ves en diez años?</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://allegory.blue/es-inevitable/index.html</link>
             <guid isPermaLink="false">6f87d37b-d3c9-4d59-9920-f65d77131f92</guid>
             <pubDate>Wed, 20 Jul 2016 13:44:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Límites insospechados]]></title>
-            <description><![CDATA[<article><h1>Límites insospechados</h1><p>Si pones a una hormiga en un folio y marcas un lateral de verde y el opuesto de rojo, siendo el primero la salida y el segundo el final del recorrido que hará la hormiga por el folio, puedes entender lo siguiente: la hormiga ve en dos dimensiones, lo que significa que, si al llegar ésta al lado rojo doblamos el papel formando un cilindro, acabara exactamente donde empezó si darse cuenta. Estúpida hormiga.</p></article>]]></description>
-            <link>http://allegory.blue/limites-insospechados/index.html</link>
-            <guid isPermaLink="false">5a946416-1234-469f-8e98-be911bc61aa4</guid>
-            <pubDate>Wed, 20 Jul 2016 12:29:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
