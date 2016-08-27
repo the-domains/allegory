@@ -1,7 +1,18 @@
+layout_spectrum: 0.3968421828467399
+typography_spectrum: 0.2526297706644982
+color:
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+  brandStrength: 0.8413484375923872
+  lightness: 0.413679062621668
+  saturation: 0.6253222245723009
+  rhythmicContrast: 0.6412400645203888
 name: Allegory
 favicon: null
-layout_spectrum: 0.8843829352408648
-typography_spectrum: 0.5083696797955781
 cta:
   domain: null
   bucket: null
@@ -14,15 +25,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.9510643943212926
-  lightness: 0.5678262489382178
-  saturation: 0.15212268312461674
-  rhythmicContrast: 0.7872943705879152
 purpose: []
