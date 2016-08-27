@@ -1,21 +1,22 @@
 ---
+datePublished: '2016-08-27T10:47:27.816Z'
+sourcePath: _posts/2016-07-20-corriente-alterna.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+dateModified: '2016-08-27T10:47:27.229Z'
+title: Corriente Alterna
+publisher: {}
 description: >-
   En ocasiones pienso que para muchos debe ser esencial tener un objetivo en la
   vida. Tal vez sea por la cantidad de veces que me he tenido que enfrentar a
   preguntas tales como ¿Dónde te ves en diez años?
-datePublished: '2016-07-20T14:10:37.959Z'
-dateModified: '2016-07-20T14:10:28.400Z'
-title: Corriente Alterna
-author: []
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
+via: {}
 starred: false
-sourcePath: _posts/2016-07-20-corriente-alterna.md
 url: corriente-alterna/index.html
 _type: Article
 
