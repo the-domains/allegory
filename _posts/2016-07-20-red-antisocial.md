@@ -1,20 +1,21 @@
 ---
+datePublished: '2016-08-27T11:02:34.135Z'
+sourcePath: _posts/2016-07-20-red-antisocial.md
 inFeed: true
+authors: []
 hasPage: true
-inNav: false
-inLanguage: null
 keywords: []
+author: []
+via: {}
+dateModified: '2016-08-27T11:02:33.255Z'
+title: Red Antisocial
+publisher: {}
 description: >-
   ¿Qué está pasando con la humanidad? ¿Cómo es posible que algo creado por y
   para el hombre se haya convertido en la principal razón de deshumanización?
-datePublished: '2016-07-20T13:44:29.329Z'
-dateModified: '2016-07-20T13:41:03.052Z'
-title: Red Antisocial
-author: []
-authors: []
-publisher: null
+inLanguage: null
+inNav: false
 starred: false
-sourcePath: _posts/2016-07-20-red-antisocial.md
 url: red-antisocial/index.html
 _type: Article
 
@@ -23,7 +24,7 @@ _type: Article
 
 ¿Qué está pasando con la humanidad? ¿Cómo es posible que algo creado por y para el hombre se haya convertido en la principal razón de deshumanización?
 
-Se nos ha olvidado que las conversaciones de verdad no tienen autocorrector, no se reescriben, no se piensan tanto y se sienten más. Nuestros ojos están hechos para mirar la luz del sol, no la luz de una pantalla, y según estudios recientes nos pasamos cuatro años de nuestra vida mirando solo el teléfono, no quiero saber qué cifra surge si sumamos ordenadores, tablets y demás aparatitos. Antes sacamos el móvil para grabar los mejores momentos de nuestra vida que cerramos los ojos y nos dejamos invadir por la sensación.
+Se nos ha olvidado que las conversaciones de verdad no tienen autocorrector, no se reescriben, no se piensan tanto y se sienten más. Nuestros ojos están hechos para mirar la luz del sol, no la luz de una pantalla, y según estudios recientes nos pasamos cuatro años de nuestra vida mirando el teléfono, no quiero saber qué cifra surge si sumamos ordenadores, tablets y demás aparatitos. Antes sacamos el móvil para grabar los mejores momentos de nuestra vida que cerramos los ojos y nos dejamos invadir por la sensación.
 
 Cuando la gente está triste sube un post a Facebook esperando likes a cambio, en vez de abrazos, si le dices a un amigo de veros te pregunta cuándo puedes hacer Skype. No lo entiendo, nadie reconoce su ignorancia porque con la facilidad de encontrar información todos nos creemos unos eruditos, unos egocéntricos, eso es lo que somos ¿selfie? ¡Qué es eso! ¿Desde cuándo hemos dejado de subir fotos para recordar momentos juntos y empezamos a subirlas para recordar nuestro careto? Es que uno no se puede centrar más en sí mismo sin dejar de lado al resto del mundo.
 
