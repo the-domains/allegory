@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 20 Jul 2016 19:49:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 10:29:42 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspiración]]></title>
+            <description><![CDATA[<article><h1>Inspiración</h1><p>Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona, te preguntarás cuánto tiempo has perdido sin haberlo experimentado.</p></article>]]></description>
+            <link>http://allegory.blue/inspiracion/index.html</link>
+            <guid isPermaLink="false">2d456916-2aa7-45df-a819-645ec1e56885</guid>
+            <pubDate>Sat, 27 Aug 2016 10:29:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Divina Perfección]]></title>
             <description><![CDATA[<article><h1>Divina Perfección</h1><p>En el momento en el cual tienes más de una opción, eres libre de escoger la que quieras. Un ser perfecto solo puede decantarse por una, pues siempre se verá obligado a escoger la opción mejor, la más perfecta. Por lo tanto un ser perfecto no es libre. Gran primera contradicción que se debería tener en cuenta ya que es incondicionalmente imposible ser perfecto PERO no libre.</p></article>]]></description>
@@ -60,13 +67,6 @@
             <description><![CDATA[<article><h1>Realidad Realizable</h1><p>Muere un famoso y de repente toda la actualidad se centra en ello; las guerras desaparecen, las personas se curan y la crisis la recuperamos en tiempo record. Pues con todo el respeto del mundo, los personajes importantes deberían morir más a menudo.</p></article>]]></description>
             <link>http://allegory.blue/realidad-realizable/index.html</link>
             <guid isPermaLink="false">be79044a-2ef2-4a24-b8ad-63cb60956cdc</guid>
-            <pubDate>Wed, 20 Jul 2016 13:44:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inspiración]]></title>
-            <description><![CDATA[<article><h1>Inspiración</h1><p>Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona te preguntarás cuánto tiempo has perdido sin haberlo experimentado.</p></article>]]></description>
-            <link>http://allegory.blue/inspiracion/index.html</link>
-            <guid isPermaLink="false">2d456916-2aa7-45df-a819-645ec1e56885</guid>
             <pubDate>Wed, 20 Jul 2016 13:44:28 GMT</pubDate>
         </item>
         <item>
