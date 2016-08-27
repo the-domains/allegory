@@ -4,8 +4,15 @@
         <description><![CDATA[Allegory]]></description>
         <link>http://allegory.blue/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Aug 2016 10:29:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2016 10:47:29 GMT</lastBuildDate>
         <atom:link href="http://allegory.blue/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Corriente Alterna]]></title>
+            <description><![CDATA[<article><h1>Corriente Alterna</h1><p>En ocasiones pienso que para muchos debe ser esencial tener un objetivo en la vida. Tal vez sea por la cantidad de veces que me he tenido que enfrentar a preguntas tales como ¿Dónde te ves en diez años?</p></article>]]></description>
+            <link>http://allegory.blue/corriente-alterna/index.html</link>
+            <guid isPermaLink="false">4ec66aa4-95eb-47dd-876f-284083d2d920</guid>
+            <pubDate>Sat, 27 Aug 2016 10:47:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Inspiración]]></title>
             <description><![CDATA[<article><h1>Inspiración</h1><p>Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona, te preguntarás cuánto tiempo has perdido sin haberlo experimentado.</p></article>]]></description>
@@ -47,13 +54,6 @@
             <link>http://allegory.blue/jerarquia-de-opiniones/index.html</link>
             <guid isPermaLink="false">a41ff577-ca5d-4620-b615-804d31e3b429</guid>
             <pubDate>Wed, 20 Jul 2016 14:10:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Corriente Alterna]]></title>
-            <description><![CDATA[<article><h1>Corriente Alterna</h1><p>En ocasiones pienso que para muchos debe ser esencial tener un objetivo en la vida. Tal vez sea por la cantidad de veces que me he tenido que enfrentar a preguntas tales como ¿Dónde te ves en diez años?</p></article>]]></description>
-            <link>http://allegory.blue/corriente-alterna/index.html</link>
-            <guid isPermaLink="false">4ec66aa4-95eb-47dd-876f-284083d2d920</guid>
-            <pubDate>Wed, 20 Jul 2016 14:10:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Red Antisocial]]></title>
