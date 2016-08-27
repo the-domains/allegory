@@ -1,4 +1,3 @@
-layout_spectrum: 0.3968421828467399
 typography_spectrum: 0.2526297706644982
 color:
   brandColors:
@@ -11,18 +10,20 @@ color:
   lightness: 0.413679062621668
   saturation: 0.6253222245723009
   rhythmicContrast: 0.6412400645203888
-name: Allegory
-favicon: null
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.3968421828467399
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Allegory
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Allegory
 purpose: []
