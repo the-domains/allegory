@@ -1,21 +1,20 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
+author: []
+dateModified: '2016-07-25T20:25:49.531Z'
+datePublished: '2016-08-27T10:29:40.298Z'
 description: >-
   Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las
   personas. Puede que te parezca una tontería pero eso es porque no sabes de lo
   que hablo, todavía. En cuanto sientas la excitación y seguridad que te
-  proporciona te preguntarás cuánto tiempo has perdido sin haberlo
+  proporciona, te preguntarás cuánto tiempo has perdido sin haberlo
   experimentado.
-datePublished: '2016-07-20T13:44:28.755Z'
-dateModified: '2016-07-20T13:44:22.231Z'
+hasPage: true
+inFeed: true
+inNav: false
+keywords: []
 title: Inspiración
-author: []
-authors: []
-publisher: null
+publisher: {}
+via: {}
 starred: false
 sourcePath: _posts/2016-07-20-inspiracion.md
 url: inspiracion/index.html
@@ -24,7 +23,7 @@ _type: Article
 ---
 # Inspiración
 
-Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona te preguntarás cuánto tiempo has perdido sin haberlo experimentado.
+Necesito que hagas una cosa por mí ya que me parece esencial en la vida de las personas. Puede que te parezca una tontería pero eso es porque no sabes de lo que hablo, todavía. En cuanto sientas la excitación y seguridad que te proporciona, te preguntarás cuánto tiempo has perdido sin haberlo experimentado.
 
 Esto es lo que debes hacer: encuentra aquello que te empuje a hacer cosas, a mantenerte ocupado aunque sea pensando, rodéate de aquello que reconoces como la razón que te lleva a hacer lo que más te aporta en la vida y, cuando lo hayas encontrado, hazte adicto.
 
